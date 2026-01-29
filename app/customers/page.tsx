@@ -1,5 +1,3 @@
-export function page(){
-    return(
-        <p> Page de clients</p>
-    )
+export default function CustomersPage() {
+  return <div>Customers</div>;
 }

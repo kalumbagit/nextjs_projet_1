@@ -1,5 +1,3 @@
-export function page(){
-    return(
-        <p>page pour la facturation</p>
-    )
+export default function InvoicePage() {
+  return <div>facturation</div>;
 }
